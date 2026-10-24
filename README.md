@@ -126,4 +126,4 @@ This is an educational project that runs on a paper (simulated) account. It is n
 
 ---
 
-*Built as part of the Real-Time Intelligent Systems course in my master's program at the University of Chicago.*
+*Built as part of my master's program at the University of Chicago.*
